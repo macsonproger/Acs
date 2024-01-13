@@ -13,9 +13,10 @@
 
 <h2>Task 3</h2>
 
+База данных в PostgreSQL:         ![](https://github.com/macsonproger/Acs/blob/main/lab_1/images/im3.jpg) 
+
 База данных состоит из 2 таблиц: developers (id, name) и games (id, title, dev_id). Связь один-ко-многим: у одного разработчика может быть много игр  
 
-База данных в PostgreSQL:         ![](https://github.com/macsonproger/Acs/blob/main/lab_1/images/im3.jpg) 
 
 <h2>Task 4</h2>
 
