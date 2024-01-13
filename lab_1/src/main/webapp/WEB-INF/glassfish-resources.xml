@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resources PUBLIC "-//GlassFish.org//DTD GlassFish Application Server 3.1 Resource Definitions//EN" "http://glassfish.org/dtds/glassfish-resources_1_5.dtd">
+<resources>
+    <!-- JDBC Connection Pool -->
+    <jdbc-connection-pool name="Pool123" res-type="javax.sql.DataSource" datasource-classname="org.postgresql.ds.PGConnectionPoolDataSource">
+        <property name="URL" value="jdbc:postgresql://localhost:5432/games"/>
+        <property name="User" value="postgres"/>
+        <property name="Password" value="55442310"/>
+    </jdbc-connection-pool>
+
+    <!-- JDBC Resource -->
+    <jdbc-resource jndi-name="Pool123Source" pool-name="Pool123"/>
+</resources>
