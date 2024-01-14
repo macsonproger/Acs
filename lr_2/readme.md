@@ -23,8 +23,8 @@
 
 <h2>Task 4</h2>
 
-[DeveloperController](src/main/java/com/example/lr_2/services/DeveloperController.java)\
-[GameController](src/main/java/com/example/lr_2/services/GameController.java)
+[DeveloperController](src/main/java/com/example/lr_2/controllers/DeveloperController.java)\
+[GameController](src/main/java/com/example/lr_2/controllers/GameController.java)
 
 <h2>Task 5</h2>
 
