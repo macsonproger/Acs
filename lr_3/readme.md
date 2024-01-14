@@ -25,7 +25,7 @@
 <h2>Task 5</h2>
 
 
-Developers:         ![](https://github.com/macsonproger/Acs/blob/main/lr_3/im/im1.jpg)  
-Games:         ![](https://github.com/macsonproger/Acs/blob/main/lr_3/im/im2.jpg)  
+Developers:         ![](https://github.com/macsonproger/Acs/blob/main/lr_3/im/im2.jpg)  
+Games:         ![](https://github.com/macsonproger/Acs/blob/main/lr_3/im/im1.jpg)  
 
 
