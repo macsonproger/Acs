@@ -13,8 +13,8 @@
 
 <h2>Task 3</h2>
 
-[xml](src/main/java/com/example/lr_3/controllers/WebController.java)
-[Developers.json](src/main/java/com/example/lr_3/controllers/DeveloperController.java)
+[xml](src/main/java/com/example/lr_3/controllers/WebController.java)  
+[Developers.json](src/main/java/com/example/lr_3/controllers/DeveloperController.java)  
 [games.json](src/main/java/com/example/lr_3/controllers/GameController.java)
 
 
